@@ -1,0 +1,51 @@
+[
+  {
+    "id": 2,
+    "licence": {
+      "risk": {
+        "riskManagement": {
+          "planningActions": "No",
+          "unsuitableReason": "",
+          "awaitingInformation": "No",
+          "riskManagementDetails": "",
+          "proposedAddressSuitable": "No",
+          "nonDisclosableInformation": "No",
+          "nonDisclosableInformationDetails": ""
+        }
+      },
+      "eligibility": {
+        "crdTime": {
+          "decision": "No"
+        },
+        "excluded": {
+          "decision": "No"
+        },
+        "suitability": {
+          "decision": "No"
+        }
+      },
+      "bassReferral": {
+        "bassRequest": {
+          "proposedTown": "Sheffield",
+          "specificArea": "Yes",
+          "bassRequested": "Yes",
+          "proposedCounty": "South Yorkshire",
+          "additionalInformation": "Additional BASS area information"
+        }
+      },
+      "proposedAddress": {
+        "optOut": {
+          "decision": "No"
+        },
+        "addressProposed": {
+          "decision": "No"
+        }
+      }
+    },
+    "booking_id": 1200635,
+    "stage": "ELIGIBILITY",
+    "version": 2,
+    "transition_date": "2020-06-06T16:41:01.262Z",
+    "vary_version": 0
+  }
+]

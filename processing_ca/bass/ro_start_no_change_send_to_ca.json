@@ -1,0 +1,40 @@
+[
+  {
+    "id": 2,
+    "licence": {
+      "eligibility": {
+        "crdTime": {
+          "decision": "No"
+        },
+        "excluded": {
+          "decision": "No"
+        },
+        "suitability": {
+          "decision": "No"
+        }
+      },
+      "bassReferral": {
+        "bassRequest": {
+          "proposedTown": "Sheffield",
+          "specificArea": "Yes",
+          "bassRequested": "Yes",
+          "proposedCounty": "South Yorkshire",
+          "additionalInformation": "Additional BASS area information"
+        }
+      },
+      "proposedAddress": {
+        "optOut": {
+          "decision": "No"
+        },
+        "addressProposed": {
+          "decision": "No"
+        }
+      }
+    },
+    "booking_id": 1200635,
+    "stage": "PROCESSING_CA",
+    "version": 1,
+    "transition_date": "2020-06-06T16:27:24.100Z",
+    "vary_version": 0
+  }
+]

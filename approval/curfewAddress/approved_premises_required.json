@@ -1,0 +1,117 @@
+[
+  {
+    "id": 2,
+    "licence": {
+      "curfew": {
+        "curfewHours": {
+          "allFrom": "19:00",
+          "allUntil": "07:00",
+          "fridayFrom": "19:00",
+          "mondayFrom": "19:00",
+          "sundayFrom": "19:00",
+          "fridayUntil": "07:00",
+          "mondayUntil": "07:00",
+          "sundayUntil": "07:00",
+          "tuesdayFrom": "19:00",
+          "saturdayFrom": "19:00",
+          "thursdayFrom": "19:00",
+          "tuesdayUntil": "07:00",
+          "saturdayUntil": "07:00",
+          "thursdayUntil": "07:00",
+          "wednesdayFrom": "19:00",
+          "wednesdayUntil": "07:00",
+          "daySpecificInputs": "No"
+        },
+        "approvedPremises": {
+          "required": "Yes"
+        },
+        "approvedPremisesAddress": {
+          "postCode": "R11 1AA",
+          "telephone": "0123456789",
+          "addressTown": "Rotherham",
+          "addressLine1": "Approved premises",
+          "addressLine2": "Letsby Avenue"
+        }
+      },
+      "victim": {
+        "victimLiaison": {
+          "decision": "No"
+        }
+      },
+      "reporting": {
+        "reportingInstructions": {
+          "name": "The Duty Officer",
+          "postcode": "S1 1AA",
+          "telephone": "01234567890",
+          "townOrCity": "Sheffield",
+          "organisation": "No Idea",
+          "reportingDate": "06/07/2020",
+          "reportingTime": "12:34",
+          "buildingAndStreet1": "1 The street",
+          "buildingAndStreet2": ""
+        }
+      },
+      "eligibility": {
+        "crdTime": {
+          "decision": "No"
+        },
+        "excluded": {
+          "decision": "No"
+        },
+        "suitability": {
+          "decision": "No"
+        }
+      },
+      "finalChecks": {
+        "onRemand": {
+          "decision": "No"
+        },
+        "seriousOffence": {
+          "decision": "No"
+        },
+        "confiscationOrder": {
+          "decision": "No"
+        }
+      },
+      "bassReferral": {
+        "bassRequest": {
+          "bassRequested": "No"
+        }
+      },
+      "proposedAddress": {
+        "optOut": {
+          "decision": "No"
+        },
+        "curfewAddress": {
+          "occupier": {
+            "name": "The offender",
+            "isOffender": "Yes",
+            "relationship": ""
+          },
+          "postCode": "S1 1AA",
+          "residents": [],
+          "telephone": "01234567890",
+          "addressTown": "Sheffield",
+          "addressLine1": "1 The avenue",
+          "addressLine2": "",
+          "additionalInformation": "",
+          "residentOffenceDetails": "",
+          "cautionedAgainstResident": "No"
+        },
+        "addressProposed": {
+          "decision": "Yes"
+        }
+      },
+      "licenceConditions": {
+        "standard": {
+          "additionalConditionsRequired": "No"
+        }
+      }
+    },
+    "booking_id": 1200635,
+    "stage": "APPROVAL",
+    "version": 1,
+    "transition_date": "2020-06-05T13:43:35.550Z",
+    "vary_version": 0
+  }
+]

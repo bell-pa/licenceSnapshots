@@ -1,0 +1,65 @@
+[
+  {
+    "id": 2,
+    "licence": {
+      "risk": {
+        "riskManagement": {
+          "emsInformation": "No",
+          "planningActions": "No",
+          "unsuitableReason": "",
+          "awaitingInformation": "Yes",
+          "emsInformationDetails": "",
+          "riskManagementDetails": "",
+          "proposedAddressSuitable": "Yes",
+          "nonDisclosableInformation": "No",
+          "nonDisclosableInformationDetails": ""
+        }
+      },
+      "eligibility": {
+        "crdTime": {
+          "decision": "No"
+        },
+        "excluded": {
+          "decision": "No"
+        },
+        "suitability": {
+          "decision": "No"
+        }
+      },
+      "bassReferral": {
+        "bassRequest": {
+          "bassRequested": "No"
+        }
+      },
+      "proposedAddress": {
+        "optOut": {
+          "decision": "No"
+        },
+        "curfewAddress": {
+          "occupier": {
+            "name": "The offender",
+            "isOffender": "Yes",
+            "relationship": ""
+          },
+          "postCode": "S1 1AA",
+          "residents": [],
+          "telephone": "01234567890",
+          "addressTown": "Sheffield",
+          "addressLine1": "1 The avenue",
+          "addressLine2": "",
+          "additionalInformation": "",
+          "residentOffenceDetails": "",
+          "cautionedAgainstResident": "No"
+        },
+        "addressProposed": {
+          "decision": "Yes"
+        }
+      }
+    },
+    "booking_id": 1200635,
+    "stage": "PROCESSING_RO",
+    "version": 1,
+    "transition_date": "2020-06-05T09:15:13.838Z",
+    "vary_version": 0
+  }
+]

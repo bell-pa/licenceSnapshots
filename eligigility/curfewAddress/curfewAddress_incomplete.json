@@ -1,0 +1,36 @@
+[
+  {
+    "id": 2,
+    "licence": {
+      "eligibility": {
+        "crdTime": {
+          "decision": "No"
+        },
+        "excluded": {
+          "decision": "No"
+        },
+        "suitability": {
+          "decision": "No"
+        }
+      },
+      "bassReferral": {
+        "bassRequest": {
+          "bassRequested": "No"
+        }
+      },
+      "proposedAddress": {
+        "optOut": {
+          "decision": "No"
+        },
+        "addressProposed": {
+          "decision": "Yes"
+        }
+      }
+    },
+    "booking_id": 1200635,
+    "stage": "ELIGIBILITY",
+    "version": 1,
+    "transition_date": null,
+    "vary_version": 0
+  }
+]

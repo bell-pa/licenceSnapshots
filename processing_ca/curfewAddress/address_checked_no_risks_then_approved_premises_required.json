@@ -1,0 +1,82 @@
+[
+  {
+    "id": 2,
+    "licence": {
+      "risk": {
+        "riskManagement": {
+          "emsInformation": "No",
+          "planningActions": "No",
+          "unsuitableReason": "",
+          "awaitingInformation": "No",
+          "emsInformationDetails": "",
+          "riskManagementDetails": "",
+          "proposedAddressSuitable": "Yes",
+          "nonDisclosableInformation": "No",
+          "nonDisclosableInformationDetails": ""
+        }
+      },
+      "curfew": {
+        "approvedPremises": {
+          "required": "Yes"
+        },
+        "curfewAddressReview": {
+          "electricity": "Yes",
+          "homeVisitConducted": "No",
+          "addressReviewComments": "curfew address details"
+        },
+        "approvedPremisesAddress": {
+          "postCode": "R11 1AA",
+          "telephone": "0123456789",
+          "addressTown": "Rotherham",
+          "addressLine1": "Approved premises",
+          "addressLine2": "Letsby Avenue"
+        }
+      },
+      "eligibility": {
+        "crdTime": {
+          "decision": "No"
+        },
+        "excluded": {
+          "decision": "No"
+        },
+        "suitability": {
+          "decision": "No"
+        }
+      },
+      "bassReferral": {
+        "bassRequest": {
+          "bassRequested": "No"
+        }
+      },
+      "proposedAddress": {
+        "optOut": {
+          "decision": "No"
+        },
+        "curfewAddress": {
+          "occupier": {
+            "name": "The offender",
+            "isOffender": "Yes",
+            "relationship": ""
+          },
+          "postCode": "S1 1AA",
+          "residents": [],
+          "telephone": "01234567890",
+          "addressTown": "Sheffield",
+          "addressLine1": "1 The avenue",
+          "addressLine2": "",
+          "additionalInformation": "",
+          "residentOffenceDetails": "",
+          "cautionedAgainstResident": "No"
+        },
+        "addressProposed": {
+          "decision": "Yes"
+        }
+      }
+    },
+    "booking_id": 1200635,
+    "stage": "PROCESSING_CA",
+    "version": 1,
+    "transition_date": "2020-06-05T13:24:15.284Z",
+    "vary_version": 0
+  }
+]
