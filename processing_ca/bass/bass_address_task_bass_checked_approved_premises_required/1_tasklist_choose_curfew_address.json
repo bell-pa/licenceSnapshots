@@ -1,0 +1,68 @@
+[
+  {
+    "id": 2,
+    "licence": {
+      "eligibility": {
+        "crdTime": {
+          "decision": "No"
+        },
+        "excluded": {
+          "decision": "No"
+        },
+        "suitability": {
+          "decision": "No"
+        }
+      },
+      "bassReferral": {
+        "bassRequest": {
+          "proposedTown": "Sheffield",
+          "specificArea": "Yes",
+          "bassRequested": "No",
+          "proposedCounty": "South Yorkshire",
+          "additionalInformation": "Additional BASS area information"
+        },
+        "bassAreaCheck": {
+          "bassAreaReason": "",
+          "bassAreaCheckSeen": "true",
+          "approvedPremisesRequiredYesNo": "Yes"
+        },
+        "approvedPremisesAddress": {
+          "postCode": "R11 1AA",
+          "telephone": "0123456789",
+          "addressTown": "Rotherham",
+          "addressLine1": "Approved premises",
+          "addressLine2": "Letsby Avenue"
+        }
+      },
+      "proposedAddress": {
+        "optOut": {
+          "decision": "No"
+        },
+        "curfewAddress": {
+          "occupier": {
+            "name": "The offender",
+            "isOffender": "Yes",
+            "relationship": ""
+          },
+          "postCode": "S1 1AA",
+          "residents": [],
+          "telephone": "01234567890",
+          "addressTown": "Sheffield",
+          "addressLine1": "2 The Street",
+          "addressLine2": "",
+          "additionalInformation": "",
+          "residentOffenceDetails": "",
+          "cautionedAgainstResident": "No"
+        },
+        "addressProposed": {
+          "decision": "Yes"
+        }
+      }
+    },
+    "booking_id": 1200635,
+    "stage": "PROCESSING_CA",
+    "version": 3,
+    "transition_date": "2020-06-06T16:38:14.058Z",
+    "vary_version": 0
+  }
+]
