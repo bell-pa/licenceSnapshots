@@ -1,0 +1,230 @@
+[
+  {
+    "id": 2,
+    "licence": {
+      "risk": {
+        "riskManagement": {
+          "emsInformation": "No",
+          "planningActions": "No",
+          "unsuitableReason": "",
+          "awaitingInformation": "No",
+          "emsInformationDetails": "",
+          "riskManagementDetails": "",
+          "proposedAddressSuitable": "Yes",
+          "nonDisclosableInformation": "No",
+          "nonDisclosableInformationDetails": ""
+        }
+      },
+      "curfew": {
+        "firstNight": {
+          "firstNightFrom": "15:00",
+          "firstNightUntil": "07:00"
+        },
+        "curfewHours": {
+          "allFrom": "19:00",
+          "allUntil": "07:00",
+          "fridayFrom": "19:04",
+          "mondayFrom": "19:00",
+          "sundayFrom": "19:06",
+          "fridayUntil": "07:04",
+          "mondayUntil": "07:00",
+          "sundayUntil": "07:06",
+          "tuesdayFrom": "19:01",
+          "saturdayFrom": "19:05",
+          "thursdayFrom": "19:03",
+          "tuesdayUntil": "07:01",
+          "saturdayUntil": "07:05",
+          "thursdayUntil": "07:03",
+          "wednesdayFrom": "19:02",
+          "wednesdayUntil": "07:02",
+          "daySpecificInputs": "Yes"
+        },
+        "approvedPremises": {
+          "required": "No"
+        },
+        "curfewAddressReview": {
+          "electricity": "Yes",
+          "homeVisitConducted": "No",
+          "addressReviewComments": "curfew address details"
+        }
+      },
+      "victim": {
+        "victimLiaison": {
+          "decision": "Yes",
+          "victimLiaisonDetails": "Details"
+        }
+      },
+      "approval": {
+        "release": {
+          "decision": "Yes",
+          "decisionMaker": "Diane Matthews",
+          "reasonForDecision": ""
+        }
+      },
+      "document": {
+        "template": {
+          "decision": "hdc_ap_pss",
+          "offenceCommittedBeforeFeb2015": "No"
+        }
+      },
+      "reporting": {
+        "reportingInstructions": {
+          "name": "The Duty Officer",
+          "postcode": "S1 1AA",
+          "telephone": "01234567890",
+          "townOrCity": "Sheffield",
+          "organisation": "No Idea",
+          "reportingDate": "05/07/2020",
+          "reportingTime": "12:34",
+          "buildingAndStreet1": "1 The street",
+          "buildingAndStreet2": ""
+        }
+      },
+      "eligibility": {
+        "crdTime": {
+          "decision": "No"
+        },
+        "excluded": {
+          "decision": "No"
+        },
+        "suitability": {
+          "decision": "No"
+        }
+      },
+      "finalChecks": {
+        "onRemand": {
+          "decision": "No"
+        },
+        "seriousOffence": {
+          "decision": "No"
+        },
+        "confiscationOrder": {
+          "decision": "No"
+        }
+      },
+      "bassReferral": {
+        "bassRequest": {
+          "bassRequested": "No"
+        }
+      },
+      "proposedAddress": {
+        "optOut": {
+          "decision": "No"
+        },
+        "curfewAddress": {
+          "occupier": {
+            "name": "The offender",
+            "isOffender": "Yes",
+            "relationship": ""
+          },
+          "postCode": "S1 1AA",
+          "residents": [],
+          "telephone": "01234567890",
+          "addressTown": "Sheffield",
+          "addressLine1": "1 The avenue",
+          "addressLine2": "",
+          "additionalInformation": "",
+          "residentOffenceDetails": "",
+          "cautionedAgainstResident": "No"
+        },
+        "addressProposed": {
+          "decision": "Yes"
+        }
+      },
+      "licenceConditions": {
+        "bespoke": [
+          {
+            "text": "Bespoke condition 1",
+            "approved": "Yes"
+          },
+          {
+            "text": "Bespoke conditon 2",
+            "approved": "No"
+          }
+        ],
+        "standard": {
+          "additionalConditionsRequired": "Yes"
+        },
+        "additional": {
+          "NOCAMERA": {},
+          "NORESIDE": {
+            "notResideWithAge": "21",
+            "notResideWithGender": "any female"
+          },
+          "ONEPHONE": {},
+          "POLYGRAPH": {},
+          "NOINTERNET": {},
+          "RETURNTOUK": {},
+          "ATTENDSAMPLE": {
+            "attendSampleDetailsName": "Name B",
+            "attendSampleDetailsAddress": "Address B"
+          },
+          "DRUG_TESTING": {
+            "drug_testing_name": "A name",
+            "drug_testing_address": "An address"
+          },
+          "USAGEHISTORY": {},
+          "NOCAMERAPHONE": {},
+          "NOWORKWITHAGE": {
+            "noWorkWithAge": "21"
+          },
+          "CAMERAAPPROVAL": {},
+          "CONFINEADDRESS": {
+            "confinedTo": "7 am",
+            "confinedFrom": "7 pm",
+            "confinedReviewFrequency": "Monthly"
+          },
+          "NOTIFYPASSPORT": {},
+          "NOCHILDRENSAREA": {
+            "notInSightOf": "School"
+          },
+          "ATTENDDEPENDENCY": {
+            "appointmentDate": "01/11/2020",
+            "appointmentTime": "23:45",
+            "appointmentAddress": "Address C"
+          },
+          "NOCONTACTPRISONER": {},
+          "SURRENDERPASSPORT": {},
+          "COMPLYREQUIREMENTS": {
+            "courseOrCentre": "The centre",
+            "abuseAndBehaviours": [
+              "alcohol abuse",
+              "drug abuse",
+              "sexual abuse",
+              "violent behaviour",
+              "gambling",
+              "solvent abuse",
+              "anger",
+              "debt",
+              "prolific behaviour",
+              "offending behaviour"
+            ]
+          },
+          "NOCONTACTASSOCIATE": {
+            "groupsOrOrganisation": "The group and / or organisation"
+          },
+          "NOTIFYRELATIONSHIP": {},
+          "NOCONTACTSEXOFFENDER": {},
+          "NOUNSUPERVISEDCONTACT": {
+            "unsupervisedContactAge": "21",
+            "unsupervisedContactGender": "any female",
+            "unsupervisedContactSocial": "Social Services Dept"
+          },
+          "ATTENDDEPENDENCYINDRUGSSECTION": {
+            "appointmentDateInDrugsSection": "01/01/20221",
+            "appointmentTimeInDrugsSection": "12:34",
+            "appointmentAddressInDrugsSection": "An address"
+          }
+        },
+        "conditionsSummary": {
+          "additionalConditionsJustification": "The explanation"
+        }
+      }
+    },
+    "booking_id": 1200635,
+    "stage": "MODIFIED",
+    "version": 1,
+    "transition_date": "2020-06-14T10:20:07.576Z",
+    "vary_version": 0
+  }
+]
